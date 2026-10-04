@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Nextjs+|+Nodejs+|+Python;Developer+|+visit+-+shubham.app&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Shubham-404">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Nextjs+|+Nodejs+|+Python;Developer+|+visit+-+shubham404.me&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Shubham-404">
 </p>
 
 <p align="center">
@@ -20,11 +20,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)"/></a>
   <a href="https://medium.com/@shubham-404" alt="Medium" title="Medium">
     <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/></a>
-  <a href="https://www.reddit.com/user/mrx-404/" alt="Reddit" title="Reddit">
-    <img src="https://img.shields.io/badge/Reddit-%23F05033.svg?logo=reddit&logoColor=white"/></a>  
 </p>
 
-🧠 I often share what I'm learning (and how I’m learning) through bite-sized posts and articles on Medium and discussions on Reddit.<br>
+🧠 I often share what I'm learning (and how I’m learning) through bite-sized posts and articles on Medium and Linkedin.<br>
 
 ## 💻 Most Loved Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
